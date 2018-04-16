@@ -10,6 +10,7 @@
   * Bayesian Information Criterion (BIC)
   * Discriminative Information Criterion (DIC)
 * Trained HMM models
+* Combined HMM models with n-grams
 
 ## Results 
 
